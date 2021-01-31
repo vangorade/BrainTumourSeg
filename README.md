@@ -10,7 +10,7 @@ We tested those models` performance with the dice metric on the brain_tumor_data
 ## Setup
 First download the code by git clone this repo:
 ```bash
-git clone https://github.com/galprz/brain-tumor-segemntation
+git clone https://github.com/vangorade/brain-tumor-segemntation
 ```
 Then use conda to install dependencies and setup the environment 
 ```bash
